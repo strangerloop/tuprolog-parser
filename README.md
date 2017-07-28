@@ -1,10 +1,16 @@
 # tuprolog-parser
 // ENGLISH
+
 University project
+
 Almamater Studiorum, Bologna
+
 Postgraduate course in Software Engineering
+
 Course of Languages and computational models
+
 Professor Enrico Denti
+
 Handler Roberta Callegari
 
 The focus of this project is to reimplement the parser of tu prolog using ANTLR 4. Thus will lead to clean code easy to maintain, it will repleace the actual parser that, being wrote without the help of code generator tools, result difficult to handle.
